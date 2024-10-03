@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Memuat dataset gabungan
-all_data = pd.read_csv('/all_data_clean.csv')
+all_data = pd.read_csv(r'dashboard/all_data_clean.csv')
 
 # Judul dashboard
 st.title('Dashboard Analisis Penyewaan Sepeda')
