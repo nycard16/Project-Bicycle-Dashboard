@@ -1,6 +1,6 @@
-# Project Bicycle Dashboard
+# Project Bicycle Dashboard ✨
 
-## Setup Enviroment
+## Setup Enviroment - Shell/Terminal
 
 ### Buat sebuah virtual environment dengan menjalankan perintah berikut.
 ```
